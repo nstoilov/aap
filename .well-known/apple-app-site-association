@@ -19,7 +19,6 @@
                "/brands/*",
                "/web/SearchResults",
                "/test3",
-               "/e/*/*?"
                "NOT /p/*"
                "/p/*/*"
             ]
