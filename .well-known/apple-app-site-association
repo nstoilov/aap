@@ -19,7 +19,9 @@
                "/brands/*",
                "/web/SearchResults",
                "/test2",
-               "/p/*/*?"
+               "/e/*/*?"
+               "NOT /p/*"
+               "/p/*/*"
             ]
          },
          {
