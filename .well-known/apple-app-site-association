@@ -19,7 +19,7 @@
                "/brands/*",
                "/web/SearchResults",
                "/test",
-               "/p/*/doesntmatter
+               "/p/*/doesntmatter"
             ]
          },
          {
