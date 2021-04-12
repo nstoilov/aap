@@ -18,8 +18,7 @@
                "/c4/*/*",
                "/brands/*",
                "/web/SearchResults",
-               "/test3",
-               "NOT /p/*"
+               "/test3"
             ]
          },
          {
