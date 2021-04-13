@@ -18,9 +18,9 @@
                "/c4/*/*",
                "/brands/*",
                "/web/SearchResults",
-               "/test5",
-               "/p/*/*",
-               "NOT /p/*"
+               "/test6",
+               "NOT /p/*",
+               "/p/*/*"
             ]
          },
          {
